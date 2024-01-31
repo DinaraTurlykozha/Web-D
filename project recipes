@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+    <style>
+        #title{
+            background-color:orange;
+        }
+        .besh{
+            color:rgb(194, 11, 11);
+        }
+        .besh{
+            background-color:rgb(251, 255, 173);
+        }
+        
+        #cake{
+            color:purple;
+        }
+        #beshbarmak{
+            color:red;
+        }
+        #salad{
+            color:green;
+        }
+        
+        #end{
+            color:rgb(13, 214, 207);
+        }
+    </style>
+       
+        <h1 id="title">Dinara's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#cake">Recipe #1</a></li>
+             <li><a href="#beshbarmak">Recipe #2</a></li>
+              <li><a href="#salad">Recipe #3</a></li>
+              
+        </ol>
+        
+        <h2 id="cake">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 30-45 min</li>
+            <li>Serves: sweet for tea</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>eggs</td>
+                    <td>3-4</td>
+                </tr>
+                <tr>
+                   <td>granulated sugar</td>
+                    <td>360g</td>
+                </tr>
+                <tr>
+                    <td>margarine</td>
+                    <td>180g</td>
+                </tr>
+                <tr>
+                    <td>baking powder</td>
+                    <td>15-17g</td>
+                </tr>
+                <tr>
+                    <td>flour</td>
+                    <td>350-400g</td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Take 3 eggs and break them, then add 180 g of sugar to the container and mix.Then add melted margarine to it.After a good mixing add flour and baking powder knead the dough
+</p>
+<p><strong>Step 2:</strong> We will make a filling. For the filling, pour sour cream over the container, again add 180 g of sugar to it, mix well, add 1 egg and 3 teaspoons mix everything and the filling is ready
+</p>
+<p><strong>Step 3:</strong> Roll out the dough in the form, pour the filling and send it to the oven for 30 to 45 minutes at 250 degrees
+</p>
+     <h2 id="beshbarmak">Recipe #2</h2>
+        
+        <ul>
+            <li>Time: 3-3,5 hours</li>
+            <li>Serves: meal</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong>Ingredients</strong></th>
+                    <th><strong>Quantity</strong></th>
+                </tr>
+                    <tr>
+                    <td>meat</td>
+                    <td>1kg or more(1 plate for 4 people)</td>
+                </tr>
+                 <tr>
+                    <td>onions</td>
+                    <td>1-2pieces</td>
+                </tr>
+                <tr>
+                    <td>noodles</td>
+                    <td> 350-400g</td>
+                </tr>
+               <tbody>
+               </tbody>
+            </thead>
+        </table>
+        
+    
+         <p class="besh"><strong>Step 1:</strong>We take a certain amount of meat and put it in a container and pour water. put it in the fire until it boils. After boiling, we will clean the soup from meat bubbles </p>
+
+<p class="besh"><strong>Step 2:</strong> After boiling, dilute the heat and leave for 2 hours at this time, peel and cut the onion and prepare the sauce
+</p>
+<p class="besh"><strong>Step 3:</strong>After 2 hours, we separate the meat from the soup and put noodles in the same soup and cook after cooking, we combine them all </p>
+
+<!--all recipes is written in my experience -->
+        
+         <h2 id="salad">Recipe #3</h2>
+        
+        <ul>
+            <li>Time:20 min</li>
+            <li>Serves:snack</li>
+        </ul>
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>tomatoes</td>
+                    <td>3-4 pieces</td>
+                </tr>
+                <tr>
+                   <td>cucumber</td>
+                    <td>3-4 pieces</td>
+                </tr>
+                <tr>
+                    <td>salt</td>
+                    <td>1-2g</td>
+                </tr>
+                <tr>
+                    <td>onion</td>
+                    <td>1 piece</td>
+                </tr>
+                
+              </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        
+        <p><strong>Step 1:</strong> All vegetables must be cleaned and washed after cutting them according to our cutting method</p>
+
+<p><strong>Step 2:</strong>After all, combine and add salt to taste and that's it, our salad is ready 
+</p>
+
+<h1 id="end"><em><strong>Let's have a delicious meal! </strong></em></h1>
+        
+    <p><em>Source: <a href="http:/recipes.com">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
