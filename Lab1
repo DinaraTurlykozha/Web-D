@@ -1,1 +1,61 @@
-Hello
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+    
+    #date{
+        font-size:14px;
+        font-family:monospace;
+    }
+
+    #pos1{
+        font-size:25px;
+        font-style:italic;
+        
+    }
+    
+    #pos2{
+        font-size:25px;
+        font-style:italic;
+    }
+        .first{
+            font-size:18px;
+            text-decoration:underline;
+            font-family:cursive;
+            font-weight:bold;
+           
+        }
+        .second{
+            font-size:18px;
+            text-decoration:underline;
+            font-family:cursive;
+            font-weight:bold;
+        }
+
+    </style>
+    <body>
+        
+        <h1>Dinara's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>First post!</li>
+            <li>Second post!</li>
+        </ul>
+        
+        <h2 id="pos1">First post</h2>
+        <h6 id="date">Posted in August 10 2022year</h6>
+        
+        <p class="first">Hello everyone It's me again, Dinara. The answers of the educational grant competition were released today. And, yes, I did it, I received a grant from the prestigious university in Central Asia KBTU. I'm so glad I got over it. And I want to thank my family and friends for believing in me and supporting me through difficult times! Thank you all very much! And I wish you all the best!</p>
+        
+        <h2 id="pos2">Second post</h2>
+        <h6 id="date">Posted in April 11 2023year</h6>
+        
+        <p class="second">Hello, friends! You can congratulate me! :) Because today is my birthday and I turned 18. Aoa-aa, I'm so happy! After all, now I can walk outside even after ten at night... But it's wrong to walk late into the night, but you can still be wrong sometimes... Okay, bye everyone, and I went to celebrate my 18th birthday!!</p>
+        
+        
+    </body>
+</html>
