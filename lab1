@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="lab1.css">
+    <title>Birthday Party Invitation</title>
+</head>
+<body>
+    <div class="invitation">
+        <h1>Birthday Party Invitation</h1>
+        <p>
+            You're invited to a joyous celebration!
+        </p>
+        <div class="event-details">
+            <h2>Event Details</h2>
+            <p><strong>Date:</strong> [11.04.2024]</p>
+            <p><strong>Time:</strong> [19:00]</p>
+            <p><strong>Location:</strong> ["Navat" (Abylay khan 58A)]</p>
+        </div>
+        <div class="guest-list">
+            <h2>Guest List</h2>
+            <ul>
+                <li>[Zhanel]</li>
+                <li>[Aiaru]</li>
+                <li>[Nuray]</li>
+                <!-- Add more guests as needed -->
+            </ul>
+        </div>
+        <div class="rsvp-button">
+            <button type="button">RSVP Now</button>
+        </div>
+    </div>
+</body>
+</html>
